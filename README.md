@@ -11,8 +11,7 @@ The latest from
 
 ---
 
-# How to make a sparse checkout of SteamDatabase/GameTracking just for the
-CSGO Protobuf files
+# How to make a sparse checkout of SteamDatabase/GameTracking just for the CSGO Protobuf files
 
 - git init game-tracking
 - cd game-tracking
